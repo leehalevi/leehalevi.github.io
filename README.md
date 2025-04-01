@@ -1,28 +1,33 @@
-# 👋 Hi there, I'm Lee!
+# 👋 Hi there, I'm Lee
 
-## Welcome to my GitHub space!
+## Welcome to my GitHub space
 
+This is where I share code, ideas, and research I'm working on or exploring.  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 **BSc in Chemistry and Biology** from *Tel-Aviv University*, specializing in **Computational Biology**
-- 🔬 Fascinated by the crossroads of **biology**, **data**, and **technology**
-- 🌍 Advocate for **open science**, **collaboration**, and **lifelong learning**
-- 🛠️ Always experimenting, exploring, and building thoughtful tools
+- BSc in Chemistry and Biology from Tel-Aviv University  
+- Specializing in Computational Biology  
+- Interested in biology, data, and the tools that help connect them  
+- Supporter of open science, collaboration, and always learning  
+- I enjoy building things that are useful, thoughtful, or just fun to experiment with
 
 ---
 
-## 🌱 Currently
+## 🌱 These Days
 
-- 🧪 Conducting research on **misinformation spread and trust** in social networks  
-- 💭 Exploring ways to make **scientific knowledge more transparent and accessible**  
-- ☕ Learning **C programming** for fun (and challenge!)  
-- 📚 Reading about **network theory**, **LLMs**, and **science philosophy**
+- Researching the role of trust in the spread of misinformation across networks  
+- Thinking about how science is shared and understood  
+- Slowly learning C (because I like a good challenge)  
+- Reading about networks, language models, and the philosophy of science
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
-- 💌 [halevilee@gmail.com](mailto:halevilee@gmail.com)
+Feel free to reach out:  
+📧 [halevilee@gmail.com](mailto:halevilee@gmail.com)
+
+---
