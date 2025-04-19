@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Lee
+![banner](https://static.vecteezy.com/system/resources/previews/043/503/787/non_2x/captivate-attention-with-this-abstract-banner-featuring-gradient-waves-in-shades-of-light-green-to-blue-perfect-for-creating-eye-catching-headers-promotional-banners-and-graphic-elements-free-vector.jpg)
+
+# 👋 Hi there, I'm Lee!
 
 ## Welcome to my GitHub space
 
@@ -31,5 +33,5 @@ Feel free to reach out:
 📧 [halevilee@gmail.com](mailto:halevilee@gmail.com)
 
 ---
-
+![banner](https://static.vecteezy.com/system/resources/previews/043/503/787/non_2x/captivate-attention-with-this-abstract-banner-featuring-gradient-waves-in-shades-of-light-green-to-blue-perfect-for-creating-eye-catching-headers-promotional-banners-and-graphic-elements-free-vector.jpg)
 
